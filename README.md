@@ -8,7 +8,7 @@ Hello! I'm Raydel Abreu, an experienced Full Stack .NET Developer based in Tarra
 - 
 ## 🛠️ Technical Skills
 - **Languages**: C#, JavaScript, VB.NET, Centura
-- **Frameworks/Libraries**: .NET, ASP.NET, Entity Framework, Angular, React (beginner)
+- **Frameworks/Libraries**: .NET, ASP.NET, Entity Framework, Angular, React (beginner), Vue.js (beginner)
 - **Tools**: Visual Studio, SQL Server, Git, Docker, Jira, SVN
 - **Others**: RESTful APIs, Microservices, Test-Driven Development, Continuous Integration
 
