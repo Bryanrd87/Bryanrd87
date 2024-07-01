@@ -4,8 +4,8 @@
 Hello! I'm Raydel Abreu, an experienced Full Stack .NET Developer based in Tarragona, Catalonia, Spain. With over 12 years in the tech industry, I specialize in using C#, VB.NET, and the .NET framework to build and maintain robust software solutions. I am passionate about utilizing software design patterns and SOLID principles, and I'm currently broadening my expertise by learning React for front-end development.
 
 ## 🌱 What I'm Learning
-- **React**: Actively learning to develop dynamic and responsive user interfaces to enhance user experience.
-- 
+- **React**: 
+- **Vue.js**: 
 ## 🛠️ Technical Skills
 - **Languages**: C#, JavaScript, VB.NET, Centura
 - **Frameworks/Libraries**: .NET, ASP.NET, Entity Framework, Angular, React (beginner), Vue.js (beginner)
