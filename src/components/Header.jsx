@@ -11,7 +11,12 @@ const Header = () => {
         <p className="text-base">Tarragona, Catalonia, Spain</p>
         <p className="text-smaller">
           +34 642 85 77 87 | bryanrd87@gmail.com |{" "}
-          <a href="https://linkedin.com" className="underline">
+          <a
+            href="https://www.linkedin.com/in/rdabreu87/"
+            className="underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             LinkedIn
           </a>
         </p>
