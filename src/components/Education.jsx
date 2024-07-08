@@ -5,9 +5,9 @@ const Education = () => {
   return (
     <section className="bg-white p-4">
       <div className="container mx-auto">
-        <h2 className="text-2xl font-fancy font-bold mb-2">Education</h2>
+        <h2 className="text-xl font-fancy font-bold mb-2">Education</h2>
         <div className="mb-4">
-          <h3 className="text-xl font-semibold">
+          <h3 className="text-lg font-semibold">
             Bachelor of Science in Computer Science
           </h3>
           <p className="text-gray-700 text-smaller">

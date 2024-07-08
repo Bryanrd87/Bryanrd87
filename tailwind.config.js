@@ -7,7 +7,8 @@ module.exports = {
         fancy: ['"M PLUS Rounded 1c"', "sans-serif"],
       },
       fontSize: {
-        smaller: "0.875rem", // Custom font size if needed
+        smaller: "0.875rem", // Custom font size for smaller text
+        tiny: "0.75rem", // Even smaller font size if needed
       },
     },
   },

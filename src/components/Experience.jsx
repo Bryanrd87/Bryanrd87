@@ -5,9 +5,9 @@ const Experience = () => {
   return (
     <section className="bg-gray-100 p-4">
       <div className="container mx-auto">
-        <h2 className="text-2xl font-fancy font-bold mb-2">Experience</h2>
+        <h2 className="text-xl font-fancy font-bold mb-2">Experience</h2>
         <div className="mb-4">
-          <h3 className="text-xl font-semibold">
+          <h3 className="text-lg font-semibold">
             Full Stack Developer - TOKIOTA
           </h3>
           <p className="text-gray-700 text-smaller">April 2024 - TODAY</p>
@@ -26,7 +26,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="mb-4">
-          <h3 className="text-xl font-semibold">
+          <h3 className="text-lg font-semibold">
             Full Stack Developer - FieldRoutes (a ServiceTitan company)
           </h3>
           <p className="text-gray-700 text-smaller">
@@ -48,7 +48,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="mb-4">
-          <h3 className="text-xl font-semibold">
+          <h3 className="text-lg font-semibold">
             Software Developer - Conectividad Global COGL Cía Ltda.
           </h3>
           <p className="text-gray-700 text-smaller">
@@ -68,7 +68,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="mb-4">
-          <h3 className="text-xl font-semibold">
+          <h3 className="text-lg font-semibold">
             Software Developer - Biocubafarma
           </h3>
           <p className="text-gray-700 text-smaller">January 2012 – June 2015</p>

@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section className="bg-white p-4">
       <div className="container mx-auto">
-        <h2 className="text-2xl font-fancy font-bold mb-2">About Me</h2>
+        <h2 className="text-xl font-fancy font-bold mb-2">About Me</h2>
         <p className="text-gray-700 text-smaller">
           Experienced Full Stack .NET developer with 12+ years in the industry
           proficient in the .NET .NET framework and software design patterns.
