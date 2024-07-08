@@ -1,11 +1,15 @@
 // src/components/Photo.jsx
 import React from "react";
-import profilePic from "../assets/profile-pic.jpg"; // Make sure to add a profile picture to this path
+import profilePic from "../assets/profile-pic.jpg"; // Make sure the image is in this path
 
 const Photo = () => {
   return (
-    <div className="w-full md:w-1/4 p-4 flex-shrink-0">
-      <img src={profilePic} alt="Profile" className="rounded-lg shadow-lg" />
+    <div className="w-full md:w-1/4 p-4 flex justify-center items-center">
+      <img
+        src={profilePic}
+        alt="Profile"
+        className="rounded-full shadow-lg w-48 h-48 object-cover"
+      />
     </div>
   );
 };
