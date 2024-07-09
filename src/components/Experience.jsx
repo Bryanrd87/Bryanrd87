@@ -1,4 +1,3 @@
-// src/components/Experience.jsx
 import React from "react";
 
 const Experience = () => {
@@ -8,9 +7,17 @@ const Experience = () => {
         <h2 className="text-xl font-fancy font-bold mb-2">Experience</h2>
         <div className="mb-4">
           <h3 className="text-lg font-semibold">
+            Sr. Full Stack Developer - Tugi Tark
+          </h3>
+          <p className="text-gray-700 text-smaller">July 2024 - TODAY</p>
+          <p className="text-gray-600 text-smaller">--</p>
+          <p className="text-gray-600 text-smaller">--</p>
+        </div>
+        <div className="mb-4">
+          <h3 className="text-lg font-semibold">
             Full Stack Developer - TOKIOTA
           </h3>
-          <p className="text-gray-700 text-smaller">April 2024 - TODAY</p>
+          <p className="text-gray-700 text-smaller">April 2024 - July 2024</p>
           <p className="text-gray-600 text-smaller">
             Developed and maintained a variety of software applications using
             C#, VB.NET, and .NET. Assisted with debugging and troubleshooting of
@@ -19,10 +26,10 @@ const Experience = () => {
             pipelines.
           </p>
           <p className="text-gray-600 text-smaller">
-            Technical Environment: Visual Studio, SQL Server, C#, VB.Net, MVC,
-            Infragistics, .Net Core, ASP.NET, Entity Framework, XML, Json,
-            jQuery, JavaScript, Bootstrap, CSS3, HTML5, Git, RESTful APIs, Azure
-            Cloud, Azure DevOps.
+            <strong>Technical Environment</strong>: Visual Studio, SQL Server,
+            C#, VB.Net, MVC, Infragistics, .Net Core, ASP.NET, Entity Framework,
+            XML, Json, jQuery, JavaScript, Bootstrap, CSS3, HTML5, Git, RESTful
+            APIs, Azure Cloud, Azure DevOps.
           </p>
         </div>
         <div className="mb-4">
@@ -41,10 +48,10 @@ const Experience = () => {
             debugging and troubleshooting of software issues.
           </p>
           <p className="text-gray-600 text-smaller">
-            Technical Environment: Visual Studio, SQL Server, C#, VB.Net, MVC,
-            Razor, .Net Core, ASP.NET, Entity Framework, XML, Json, jQuery,
-            JavaScript, Bootstrap, CSS3, Angular, HTML5, Git, SVN, Jira, RDL
-            designer, Docker, APIs.
+            <strong>Technical Environment</strong>: Visual Studio, SQL Server,
+            C#, VB.Net, MVC, Razor, .Net Core, ASP.NET, Entity Framework, XML,
+            Json, jQuery, JavaScript, Bootstrap, CSS3, Angular, HTML5, Git, SVN,
+            Jira, RDL designer, Docker, APIs.
           </p>
         </div>
         <div className="mb-4">
@@ -62,9 +69,9 @@ const Experience = () => {
             continuous improvement of the development process.
           </p>
           <p className="text-gray-600 text-smaller">
-            Technical Environment: Visual Studio, SQL Server, C#, MVC, Razor,
-            ASP.NET, jQuery, JavaScript, Bootstrap, Entity Framework, XML, Json,
-            HTML5, SVN, CSS3.
+            <strong>Technical Environment</strong>: Visual Studio, SQL Server,
+            C#, MVC, Razor, ASP.NET, jQuery, JavaScript, Bootstrap, Entity
+            Framework, XML, Json, HTML5, SVN, CSS3.
           </p>
         </div>
         <div className="mb-4">
@@ -79,7 +86,8 @@ const Experience = () => {
             software issues.
           </p>
           <p className="text-gray-600 text-smaller">
-            Technical Environment: Visual Studio, LINQ, SQL Server, Centura.
+            <strong>Technical Environment</strong>: Visual Studio, LINQ, SQL
+            Server, Centura.
           </p>
         </div>
       </div>

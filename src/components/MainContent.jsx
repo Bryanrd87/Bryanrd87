@@ -1,4 +1,3 @@
-// src/components/MainContent.jsx
 import React from "react";
 import About from "./About";
 import Experience from "./Experience";

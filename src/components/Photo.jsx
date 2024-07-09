@@ -1,6 +1,5 @@
-// src/components/Photo.jsx
 import React from "react";
-import profilePic from "../assets/profile-pic.jpg"; // Make sure the image is in this path
+import profilePic from "../assets/profile-pic.jpg";
 
 const Photo = () => {
   return (
