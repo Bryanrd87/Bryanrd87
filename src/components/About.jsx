@@ -1,33 +1,26 @@
 import React from "react";
+import { User } from "lucide-react";
 
 const About = () => {
   return (
-    <section className="bg-white p-4">
-      <div className="container mx-auto">
-        <h2 className="text-xl font-fancy font-bold mb-2">About Me</h2>
-        <p className="text-gray-700 text-smaller">
-          I am an experienced Full Stack .NET developer with over 12 years in
-          the industry, specializing in the .NET framework and software design
-          patterns. My expertise includes developing and maintaining a variety
-          of software applications using C#, VB.NET, and .NET Core. I have a
-          strong track record in debugging and troubleshooting software issues,
-          ensuring high-quality software delivery on schedule and within budget.
+    <section className="glass-card rounded-2xl p-6 md:p-8 hover:bg-slate-800/50 transition-colors duration-300">
+      <div className="flex items-center gap-3 mb-6">
+        <div className="p-2 bg-blue-500/10 rounded-lg text-blue-400">
+          <User size={24} />
+        </div>
+        <h2 className="text-2xl font-bold text-white">About Me</h2>
+      </div>
+      
+      <div className="space-y-4 text-slate-300 leading-relaxed">
+        <p>
+          Senior .NET Developer with 14+ years shipping production software.
+          Strong in .NET/C#, DDD, SOLID/TDD, and API integration;
+          experienced delivering end-to-end features with Vue.js/TypeScript
+          and MongoDB. Currently focused on building scalable systems
+          with Event-Driven Architecture (EDA) and reliable async workflows.
         </p>
-        <p className="text-gray-700 text-smaller">
-          My professional journey includes significant roles at TOKIOTA,
-          FieldRoutes (a ServiceTitan company), Conectividad Global COGL Cía
-          Ltda., and Biocubafarma. I have leveraged technologies such as Visual
-          Studio, SQL Server, MVC, Razor, Infragistics, Entity Framework, XML,
-          JSON, jQuery, JavaScript, Bootstrap, CSS3, HTML5, Git, Azure Cloud,
-          Azure DevOps, SVN, Jira, Docker, and APIs in various projects.
-        </p>
-        <p className="text-gray-700 text-smaller">
-          I am well-versed in using Azure Cloud services for deployment and
-          management of applications, and I utilize Azure DevOps for continuous
-          integration and continuous deployment (CI/CD) pipelines. My approach
-          to development is rooted in SOLID principles and Test-Driven
-          Development (TDD), aiming to create scalable and maintainable software
-          solutions.
+        <p className="font-semibold text-blue-400">
+          Spain-based • ES/EN
         </p>
       </div>
     </section>
